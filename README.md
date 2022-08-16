@@ -11,6 +11,10 @@
 
 
 
+
+
 --Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
+
 --For Web Framework Requirements: pip install -r requirements.txt
+
 --Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
